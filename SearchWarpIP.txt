@@ -1,0 +1,1 @@
+wget -N --no-check-certificate https://github.com/RezaDorosti/Misaka_warp-script/raw/main/files/warp-yxip/warp-yxip.sh && bash warp-yxip.sh
