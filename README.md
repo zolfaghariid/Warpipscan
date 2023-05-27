@@ -1,3 +1,5 @@
+cloned from https://gitlab.com/Misaka-blog/warp-script
+*******Original page https://gitlab.com/Misaka-blog/warp-script ******************
 # warp-script
 
 CloudFlare WARP 一键管理脚本
